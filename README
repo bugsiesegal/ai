@@ -1,0 +1,34 @@
+#@author Jake Seagal
+#@version 1.0
+#@name simple_bot.py
+#@date 07/01/2016
+#All Rights Reserved
+
+Instructions how to open the file in Windows:
+-Open CMD
+-Locate the file using "cd filename"
+-Once the file is located, type "python simple_bot.py"
+-Type "hello" and the program should run
+-To start the bot say hi.
+
+
+List of words you can say
+'Hola', 'hello', 'hi','hey!','Hello','Hi','How are you?','How are you doing?',
+'How you been?','Okay','I am fine','good!','That is awesome!','yes','yeah','yea'
+,'no','No','Nah','nah'
+
+
+Instructions how to open the file in Macintosh:
+-Open Terminal
+-Locate the file using "cd filename"
+-Once the file is located, type "python simple_bot.py"
+-To start the bot say hi.
+
+List of words you can say
+'Hola', 'hello', 'hi','hey!','Hello','Hi','How are you?','How are you doing?',
+'How you been?','Okay','I am fine','good!','That is awesome!','yes','yeah','yea'
+,'no','No','Nah','nah'
+
+To close the program just close the CMD/Terminal
+
+Observations: Program is not executable in windows, but it is executable in mac
